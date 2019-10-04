@@ -2,6 +2,7 @@
 
 namespace humboldt_home_sales_assignment_2_trakhak
 {
+    //Khali Tran
     class Program
     {
         static void Main(string[] args)
@@ -9,30 +10,16 @@ namespace humboldt_home_sales_assignment_2_trakhak
             //DECLARATIONS
             string initial; 
             double total;
-            string Silas = S&s, Noah = N&n, Chris = C&c;
+
             int SilasTotal, NoahTotal, ChrisTotal;
             int sum = Silas + Noah + Chris;
-            int EXIT = Z&z;
+            string EXIT = "Z";
 
             Console.WriteLine("Welcome to Humboldt Home Sales Agent Performance Calculator");
-            Console.WriteLine("Please enter initials")
-            
-            while(initial != EXIT){
+            Console.WriteLine("Please enter initials");
+            initial = Console.ReadLine();
 
-                if((initial = Silas)){
-                Console.WriteLine("Enter sale amount");
-                SilasTotal = Convert.ToInt32(Console.ReadLine());
-                }
-
-                else((initial = Noah)){
-                Console.WriteLine("Enter sale amount");
-                NoahTotal = Convert.ToInt32(Console.ReadLine());
-                }
-
-                else((initial = Chris)){
-                Console.WriteLine("Enter sale amount");
-                ChrisTotal = Convert.ToInt32(Console.ReadLine());
-                }
+            while (initial == "C" || "c")
 
                 total = SilasTotal + NoahTotal + ChrisTotal
 
