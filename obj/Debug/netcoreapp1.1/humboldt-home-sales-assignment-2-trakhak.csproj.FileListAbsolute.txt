@@ -1,0 +1,4 @@
+C:\Users\trakhak\Desktop\humboldt-home-sales-assignment-2-trakhak\bin\Debug\netcoreapp1.1\humboldt-home-sales-assignment-2-trakhak.deps.json
+C:\Users\trakhak\Desktop\humboldt-home-sales-assignment-2-trakhak\bin\Debug\netcoreapp1.1\humboldt-home-sales-assignment-2-trakhak.runtimeconfig.json
+C:\Users\trakhak\Desktop\humboldt-home-sales-assignment-2-trakhak\bin\Debug\netcoreapp1.1\humboldt-home-sales-assignment-2-trakhak.runtimeconfig.dev.json
+C:\Users\trakhak\Desktop\humboldt-home-sales-assignment-2-trakhak\obj\Debug\netcoreapp1.1\humboldt-home-sales-assignment-2-trakhak.AssemblyInfo.cs
